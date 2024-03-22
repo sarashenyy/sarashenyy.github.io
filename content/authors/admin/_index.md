@@ -42,8 +42,8 @@ education:
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in Computer Science
-      institution: Massachusetts Institute of Technology
+    - course: BE in Computer Science
+      institution: Zhejiang University of Technology
       year: 2022
 
 # Skills
